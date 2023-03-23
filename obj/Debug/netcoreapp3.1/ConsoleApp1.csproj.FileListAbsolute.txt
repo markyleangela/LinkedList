@@ -1,0 +1,14 @@
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Kyla\LEARN\C#\FirstC\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Kyla\Learn\C#\FirstC\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Kyla\Learn\C#\FirstC\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kyla\Learn\C#\FirstC\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Kyla\Learn\C#\FirstC\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
